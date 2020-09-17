@@ -1,4 +1,4 @@
-# Fitness Tracker
+# Budget Tracker
 
 ## Description
 An app to allow users track their workouts to help reach their fitness goals. Created using node.js, express and mongodb.  
@@ -16,11 +16,11 @@ An app that allows users to track their budget in either online or offline envir
 
 
 ## Installation
-
+App has been deployed using heroku, no installation required.
 
 
 ## Usage
-
+This app is available for use via the following link - https://pacific-oasis-16466.herokuapp.com/
 
 
 ## License
@@ -33,7 +33,7 @@ Currently not available for contributions.
 
 
 ## Tests
-
+N/A
 
 
 ## Questions
